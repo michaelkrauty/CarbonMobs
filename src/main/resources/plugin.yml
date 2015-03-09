@@ -1,0 +1,8 @@
+name: CarbonMobs
+version: 1.0
+author: michaelkrauty
+main: me.michaelkrauty.CarbonMobs.Main
+commands:
+  carbonmobs:
+    usage: /carbonmobs
+    permission: carbonmobs.admin
